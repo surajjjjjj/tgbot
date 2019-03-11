@@ -1,3 +1,4 @@
+
 import datetime
 import importlib
 import re
@@ -19,8 +20,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}!👋 This is a free and powerful group manager bot made with ❤️ by @Suraj 🤗
-You may add this bot to your group by clicking [here](https://telegram.me/bhxbot?startgroup=add) \
+Hello {}!👋 
+This is a free and powerful group manager bot made with ❤️ by @Suraj 🤗
+You may add this bot to your group by clicking [here](https://telegram.me/bhxbot?startgroup=add)
 Enjoy!
 """
 
